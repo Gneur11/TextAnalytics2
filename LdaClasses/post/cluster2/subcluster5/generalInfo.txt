@@ -1,0 +1,5 @@
+cluster 5 lunghezza 41
+Mean vader: -0.6759731707317074NUMBER OF TOPICS FOR CLUSTER 5 : 7
+2018    327
+2017    131
+2019     56

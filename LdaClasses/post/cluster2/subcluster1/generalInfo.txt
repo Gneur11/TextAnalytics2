@@ -1,0 +1,5 @@
+cluster 1 lunghezza 87
+Mean vader: 0.5839218390804599NUMBER OF TOPICS FOR CLUSTER 1 : 7
+2018    327
+2017    131
+2019     56

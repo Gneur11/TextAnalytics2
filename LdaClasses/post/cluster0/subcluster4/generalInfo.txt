@@ -1,0 +1,5 @@
+cluster 4 lunghezza 59
+Mean vader: -0.06768813559322034NUMBER OF TOPICS FOR CLUSTER 4 : 10
+2018    280
+2017    153
+2019     47

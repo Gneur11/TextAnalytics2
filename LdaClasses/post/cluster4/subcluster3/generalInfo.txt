@@ -1,0 +1,5 @@
+cluster 3 lunghezza 124
+Mean vader: 0.2551677419354839NUMBER OF TOPICS FOR CLUSTER 3 : 14
+2018    365
+2017    333
+2019     78

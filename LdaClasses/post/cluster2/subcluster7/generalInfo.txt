@@ -1,0 +1,5 @@
+cluster 7 lunghezza 31
+Mean vader: -0.5945483870967742NUMBER OF TOPICS FOR CLUSTER 7 : 7
+2018    327
+2017    131
+2019     56

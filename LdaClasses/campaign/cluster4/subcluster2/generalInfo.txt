@@ -1,0 +1,4 @@
+cluster 2 lunghezza 259
+Mean vader: 0.2389NUMBER OF TOPICS FOR CLUSTER 2 : 10
+2015    824
+2016    557

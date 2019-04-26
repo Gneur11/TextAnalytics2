@@ -1,0 +1,5 @@
+cluster 9 lunghezza 26
+Mean vader: 0.5072615384615384NUMBER OF TOPICS FOR CLUSTER 9 : 14
+2018    380
+2017    205
+2019    102
