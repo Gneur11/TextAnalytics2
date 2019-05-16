@@ -1,0 +1,8 @@
+cluster 8 lunghezza 109
+Mean vader: 0.6130513761467891
+Topic 0:  job year time congratulations foxandfriends security news enemy minister record 
+Topic 1:  maga whitehouse people president day anniversary minister man ceremony deal 
+NUMBER OF TOPICS FOR CLUSTER 8 : 19
+2017    53
+2018    48
+2019     8

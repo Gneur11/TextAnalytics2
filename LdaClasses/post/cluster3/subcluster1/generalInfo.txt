@@ -1,5 +1,8 @@
-cluster 1 lunghezza 239
-Mean vader: 0.34615564853556485NUMBER OF TOPICS FOR CLUSTER 1 : 13
-2018    837
-2017    776
-2019    180
+cluster 1 lunghezza 146
+Mean vader: 0.44497739726027397
+Topic 6:  morning flotus honor time day melania job make america proud 
+Topic 7:  president job honor world country whitehouse months thanks press tax 
+NUMBER OF TOPICS FOR CLUSTER 1 : 19
+2018    77
+2017    53
+2019    16

@@ -1,5 +1,10 @@
-cluster 0 lunghezza 66
-Mean vader: -0.5832606060606061NUMBER OF TOPICS FOR CLUSTER 0 : 13
-2018    837
-2017    776
-2019    180
+cluster 0 lunghezza 418
+Mean vader: 0.48307942583732066
+Topic 10:  foxandfriends melania work crowd job years vote whitehouse day book 
+Topic 11:  make america country states border crime wall ban president executive 
+Topic 12:  honor america people usa day behalf world whitehouse president god 
+Topic 13:  way show america foxnews tonight decision vote watch men opponent 
+NUMBER OF TOPICS FOR CLUSTER 0 : 19
+2018    214
+2017    173
+2019     31

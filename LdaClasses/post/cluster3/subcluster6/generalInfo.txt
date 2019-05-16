@@ -1,5 +1,8 @@
-cluster 6 lunghezza 114
-Mean vader: 0.39986052631578944NUMBER OF TOPICS FOR CLUSTER 6 : 13
-2018    837
-2017    776
-2019    180
+cluster 6 lunghezza 159
+Mean vader: 0.5511628930817609
+Topic 17:  year something congress job house record time state news media 
+Topic 18:  congratulations news foxandfriends enjoy media hunt witch america christmas jobs 
+NUMBER OF TOPICS FOR CLUSTER 6 : 19
+2017    72
+2018    71
+2019    16

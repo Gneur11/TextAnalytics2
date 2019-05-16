@@ -1,5 +1,5 @@
-cluster 6 lunghezza 69
-Mean vader: 0.6839449275362319NUMBER OF TOPICS FOR CLUSTER 6 : 7
+cluster 6 lunghezza 50
+Mean vader: 0.359794NUMBER OF TOPICS FOR CLUSTER 6 : 19
 2018    327
 2017    131
 2019     56

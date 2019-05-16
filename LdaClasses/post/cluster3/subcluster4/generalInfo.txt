@@ -1,5 +1,8 @@
-cluster 4 lunghezza 255
-Mean vader: 0.2500054901960785NUMBER OF TOPICS FOR CLUSTER 4 : 13
-2018    837
-2017    776
-2019    180
+cluster 4 lunghezza 148
+Mean vader: 0.3338202702702703
+Topic 13:  way show america foxnews tonight decision vote watch men opponent 
+Topic 14:  congratulations hunt witch border states economy day s cuts office 
+NUMBER OF TOPICS FOR CLUSTER 4 : 19
+2018    76
+2017    60
+2019    12

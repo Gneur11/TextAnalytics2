@@ -1,5 +1,8 @@
-cluster 2 lunghezza 227
-Mean vader: 0.3805766519823789NUMBER OF TOPICS FOR CLUSTER 2 : 13
-2018    837
-2017    776
-2019    180
+cluster 2 lunghezza 192
+Mean vader: 0.4643385416666666
+Topic 2:  congratulations news years birthday whitehouse tonight maga vote democrats honor 
+Topic 3:  birthday approval time meetings minister book woman usa day press 
+NUMBER OF TOPICS FOR CLUSTER 2 : 19
+2017    92
+2018    72
+2019    28

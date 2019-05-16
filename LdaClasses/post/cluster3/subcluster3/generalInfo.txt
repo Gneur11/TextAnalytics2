@@ -1,5 +1,8 @@
-cluster 3 lunghezza 464
-Mean vader: 0.5090911637931035NUMBER OF TOPICS FOR CLUSTER 3 : 13
-2018    837
-2017    776
-2019    180
+cluster 3 lunghezza 176
+Mean vader: 0.33362159090909094
+Topic 4:  people pm isis way vote honor jobs act office leaders 
+Topic 5:  jobs vote day economy look france president steel americans way 
+NUMBER OF TOPICS FOR CLUSTER 3 : 19
+2018    87
+2017    81
+2019     8

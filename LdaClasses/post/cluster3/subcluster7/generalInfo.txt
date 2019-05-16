@@ -1,5 +1,8 @@
-cluster 7 lunghezza 233
-Mean vader: 0.6447656652360515NUMBER OF TOPICS FOR CLUSTER 7 : 13
-2018    837
-2017    776
-2019    180
+cluster 7 lunghezza 204
+Mean vader: 0.3431794117647059
+Topic 15:  address harassment book time president house jobs vote trump work 
+Topic 16:  year maga wall border way president whitehouse security people story 
+NUMBER OF TOPICS FOR CLUSTER 7 : 19
+2018    86
+2017    80
+2019    38

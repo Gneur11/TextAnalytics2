@@ -1,5 +1,8 @@
-cluster 5 lunghezza 195
-Mean vader: 0.48711025641025646NUMBER OF TOPICS FOR CLUSTER 5 : 13
-2018    837
-2017    776
-2019    180
+cluster 5 lunghezza 174
+Mean vader: 0.437267816091954
+Topic 8:  news whitehouse america time honor budget maga texas years wall 
+Topic 9:  america make jobs country friends people usa president work healthcare 
+NUMBER OF TOPICS FOR CLUSTER 5 : 19
+2017    82
+2018    74
+2019    18

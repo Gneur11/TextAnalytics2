@@ -1,0 +1,8 @@
+cluster 9 lunghezza 38
+Mean vader: -0.7040868421052631
+Topic 17:  year something congress job house record time state news media 
+Topic 18:  congratulations news foxandfriends enjoy media hunt witch america christmas jobs 
+NUMBER OF TOPICS FOR CLUSTER 9 : 19
+2017    19
+2018    15
+2019     4

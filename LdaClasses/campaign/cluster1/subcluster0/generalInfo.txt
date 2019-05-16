@@ -1,4 +1,0 @@
-cluster 0 lunghezza 455
-Mean vader: 0.615807032967033NUMBER OF TOPICS FOR CLUSTER 0 : 7
-2015    1288
-2016     832

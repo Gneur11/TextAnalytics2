@@ -1,0 +1,5 @@
+cluster 8 lunghezza 26
+Mean vader: 0.32648461538461543NUMBER OF TOPICS FOR CLUSTER 8 : 19
+2018    327
+2017    131
+2019     56
